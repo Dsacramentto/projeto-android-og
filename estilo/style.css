@@ -51,7 +51,7 @@ header h1{
   text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.267);
 }
 
-header p{
+header > p{
   max-width: 500px;
   padding: 0px 10px;
   color: white;
